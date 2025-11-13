@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/">
+    <file>main.qml</file>
+
+    <!-- Remplace ce nom par celui de ton modèle exact -->
+    <file>models/2003_gmc_topkick_c6500.glb</file>
+  </qresource>
+</RCC>
