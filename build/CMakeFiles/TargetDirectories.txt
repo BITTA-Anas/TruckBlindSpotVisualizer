@@ -1,6 +1,0 @@
-C:/Users/BEETTTAAA!!!/Desktop/angle_mort/build/CMakeFiles/appTruckBlindSpotExample.dir
-C:/Users/BEETTTAAA!!!/Desktop/angle_mort/build/CMakeFiles/appTruckBlindSpotExample_qmlimportscan.dir
-C:/Users/BEETTTAAA!!!/Desktop/angle_mort/build/CMakeFiles/edit_cache.dir
-C:/Users/BEETTTAAA!!!/Desktop/angle_mort/build/CMakeFiles/rebuild_cache.dir
-C:/Users/BEETTTAAA!!!/Desktop/angle_mort/build/CMakeFiles/appTruckBlindSpotExample_autogen_timestamp_deps.dir
-C:/Users/BEETTTAAA!!!/Desktop/angle_mort/build/CMakeFiles/appTruckBlindSpotExample_autogen.dir
