@@ -1,0 +1,1 @@
+ readonly property vector3d initialRot: Qt.vector3d(-90, 180, 0)

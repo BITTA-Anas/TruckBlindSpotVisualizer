@@ -72,6 +72,15 @@ appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Users/BEETTTAAA!!!/D
 appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: CMakeFiles/appTruckBlindSpotExample_autogen.dir/AutoRcc_qml_EWIEGA46WW_Info.json
 appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Users/BEETTTAAA!!!/Desktop/angle_mort/main.qml
 appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/2003_gmc_topkick_c6500.glb
+appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/road.svg
+appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/RouteEtatRepos.SVG
+appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/ClignotantGaucheOff.SVG
+appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/ClignotantDroitOff.SVG
+appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/ClignotantGaucheOn.SVG
+appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/ClignotantDroitOn.SVG
+appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/route.SVG
+appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/FeuOff.SVG
+appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/FeuOn.SVG
 appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Qt/6.9.3/mingw_64/bin/rcc.exe
 appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Qt/6.9.3/mingw_64/bin/rcc.exe
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic RCC for qml.qrc"
@@ -110,11 +119,26 @@ CMakeFiles/appTruckBlindSpotExample.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appTruckBlindSpotExample.dir/main.cpp.s"
 	C:\Qt\Tools\mingw1310_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\BEETTTAAA!!!\Desktop\angle_mort\main.cpp -o CMakeFiles\appTruckBlindSpotExample.dir\main.cpp.s
 
+CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.obj: CMakeFiles/appTruckBlindSpotExample.dir/flags.make
+CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.obj: CMakeFiles/appTruckBlindSpotExample.dir/includes_CXX.rsp
+CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.obj: C:/Users/BEETTTAAA!!!/Desktop/angle_mort/ArduinoController.cpp
+CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.obj: CMakeFiles/appTruckBlindSpotExample.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.obj -MF CMakeFiles\appTruckBlindSpotExample.dir\ArduinoController.cpp.obj.d -o CMakeFiles\appTruckBlindSpotExample.dir\ArduinoController.cpp.obj -c C:\Users\BEETTTAAA!!!\Desktop\angle_mort\ArduinoController.cpp
+
+CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\BEETTTAAA!!!\Desktop\angle_mort\ArduinoController.cpp > CMakeFiles\appTruckBlindSpotExample.dir\ArduinoController.cpp.i
+
+CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\BEETTTAAA!!!\Desktop\angle_mort\ArduinoController.cpp -o CMakeFiles\appTruckBlindSpotExample.dir\ArduinoController.cpp.s
+
 CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp.obj: CMakeFiles/appTruckBlindSpotExample.dir/flags.make
 CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp.obj: CMakeFiles/appTruckBlindSpotExample.dir/includes_CXX.rsp
 CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp.obj: appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp
 CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp.obj: CMakeFiles/appTruckBlindSpotExample.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp.obj"
 	C:\Qt\Tools\mingw1310_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp.obj -MF CMakeFiles\appTruckBlindSpotExample.dir\appTruckBlindSpotExample_autogen\EWIEGA46WW\qrc_qml.cpp.obj.d -o CMakeFiles\appTruckBlindSpotExample.dir\appTruckBlindSpotExample_autogen\EWIEGA46WW\qrc_qml.cpp.obj -c C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\appTruckBlindSpotExample_autogen\EWIEGA46WW\qrc_qml.cpp
 
 CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp.i: cmake_force
@@ -129,6 +153,7 @@ CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/EWIEGA4
 appTruckBlindSpotExample_OBJECTS = \
 "CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/mocs_compilation.cpp.obj" \
 "CMakeFiles/appTruckBlindSpotExample.dir/main.cpp.obj" \
+"CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.obj" \
 "CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp.obj"
 
 # External object files for target appTruckBlindSpotExample
@@ -136,10 +161,12 @@ appTruckBlindSpotExample_EXTERNAL_OBJECTS =
 
 appTruckBlindSpotExample.exe: CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/mocs_compilation.cpp.obj
 appTruckBlindSpotExample.exe: CMakeFiles/appTruckBlindSpotExample.dir/main.cpp.obj
+appTruckBlindSpotExample.exe: CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.obj
 appTruckBlindSpotExample.exe: CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp.obj
 appTruckBlindSpotExample.exe: CMakeFiles/appTruckBlindSpotExample.dir/build.make
 appTruckBlindSpotExample.exe: C:/Qt/6.9.3/mingw_64/lib/libQt6Quick3DAssetUtils.a
 appTruckBlindSpotExample.exe: C:/Qt/6.9.3/mingw_64/lib/libQt6Multimedia.a
+appTruckBlindSpotExample.exe: C:/Qt/6.9.3/mingw_64/lib/libQt6SerialPort.a
 appTruckBlindSpotExample.exe: C:/Qt/6.9.3/mingw_64/lib/libQt6Quick3D.a
 appTruckBlindSpotExample.exe: C:/Qt/6.9.3/mingw_64/lib/libQt6Quick3DRuntimeRender.a
 appTruckBlindSpotExample.exe: C:/Qt/6.9.3/mingw_64/lib/libQt6ShaderTools.a
@@ -158,7 +185,7 @@ appTruckBlindSpotExample.exe: C:/Qt/6.9.3/mingw_64/lib/libQt6EntryPoint.a
 appTruckBlindSpotExample.exe: CMakeFiles/appTruckBlindSpotExample.dir/linkLibs.rsp
 appTruckBlindSpotExample.exe: CMakeFiles/appTruckBlindSpotExample.dir/objects1.rsp
 appTruckBlindSpotExample.exe: CMakeFiles/appTruckBlindSpotExample.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable appTruckBlindSpotExample.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable appTruckBlindSpotExample.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\appTruckBlindSpotExample.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

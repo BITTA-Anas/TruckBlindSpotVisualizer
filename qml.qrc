@@ -1,8 +1,15 @@
 <RCC>
   <qresource prefix="/">
     <file>main.qml</file>
-
-    <!-- Remplace ce nom par celui de ton modèle exact -->
     <file>models/2003_gmc_topkick_c6500.glb</file>
+    <file>models/road.svg</file>
+    <file>models/svgicons/ClignotantDroitOn.SVG</file>
+    <file>models/svgicons/ClignotantGaucheOn.SVG</file>
+    <file>models/svgicons/ClignotantDroitOff.SVG</file>
+    <file>models/svgicons/ClignotantGaucheOff.SVG</file>
+    <file>models/svgicons/FeuOn.SVG</file>
+    <file>models/svgicons/FeuOff.SVG</file>
+    <file>models/svgicons/route.SVG</file>
+    <file>models/svgicons/RouteEtatRepos.SVG</file>
   </qresource>
 </RCC>

@@ -396,4 +396,17 @@ CMakeFiles/appTruckBlindSpotExample.dir/main.cpp.obj: \
  C:/Qt/6.9.3/mingw_64/include/QtQml/qqmlregistration.h \
  C:/Qt/6.9.3/mingw_64/include/QtQmlIntegration/qqmlintegration.h \
  C:/Qt/6.9.3/mingw_64/include/QtQml/qqmlerror.h \
- C:/Qt/6.9.3/mingw_64/include/QtQml/qqmlabstracturlinterceptor.h
+ C:/Qt/6.9.3/mingw_64/include/QtQml/qqmlabstracturlinterceptor.h \
+ C:/Qt/6.9.3/mingw_64/include/QtQml/QQmlContext \
+ C:/Qt/6.9.3/mingw_64/include/QtQml/qqmlcontext.h \
+ C:\Users\BEETTTAAA!!!\Desktop\angle_mort\ArduinoController.h \
+ C:/Qt/6.9.3/mingw_64/include/QtCore/QObject \
+ C:/Qt/6.9.3/mingw_64/include/QtCore/qobject.h \
+ C:/Qt/6.9.3/mingw_64/include/QtSerialPort/QSerialPort \
+ C:/Qt/6.9.3/mingw_64/include/QtSerialPort/qserialport.h \
+ C:/Qt/6.9.3/mingw_64/include/QtCore/qiodevice.h \
+ C:/Qt/6.9.3/mingw_64/include/QtCore/qproperty.h \
+ C:/Qt/6.9.3/mingw_64/include/QtCore/qpropertyprivate.h \
+ C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/experimental/source_location \
+ C:/Qt/6.9.3/mingw_64/include/QtSerialPort/qserialportglobal.h \
+ C:/Qt/6.9.3/mingw_64/include/QtSerialPort/qtserialportexports.h

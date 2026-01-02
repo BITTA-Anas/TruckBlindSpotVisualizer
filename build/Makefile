@@ -167,6 +167,30 @@ appTruckBlindSpotExample_autogen/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTruckBlindSpotExample_autogen.dir\build.make CMakeFiles/appTruckBlindSpotExample_autogen.dir/build
 .PHONY : appTruckBlindSpotExample_autogen/fast
 
+ArduinoController.obj: ArduinoController.cpp.obj
+.PHONY : ArduinoController.obj
+
+# target to build an object file
+ArduinoController.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTruckBlindSpotExample.dir\build.make CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.obj
+.PHONY : ArduinoController.cpp.obj
+
+ArduinoController.i: ArduinoController.cpp.i
+.PHONY : ArduinoController.i
+
+# target to preprocess a source file
+ArduinoController.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTruckBlindSpotExample.dir\build.make CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.i
+.PHONY : ArduinoController.cpp.i
+
+ArduinoController.s: ArduinoController.cpp.s
+.PHONY : ArduinoController.s
+
+# target to generate assembly for a file
+ArduinoController.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTruckBlindSpotExample.dir\build.make CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.s
+.PHONY : ArduinoController.cpp.s
+
 appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.obj: appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp.obj
 .PHONY : appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.obj
 
@@ -251,6 +275,9 @@ help:
 	@echo ... appTruckBlindSpotExample_autogen_timestamp_deps
 	@echo ... appTruckBlindSpotExample_qmlimportscan
 	@echo ... appTruckBlindSpotExample
+	@echo ... ArduinoController.obj
+	@echo ... ArduinoController.i
+	@echo ... ArduinoController.s
 	@echo ... appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.obj
 	@echo ... appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.i
 	@echo ... appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.s

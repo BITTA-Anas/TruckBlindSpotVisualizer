@@ -24,11 +24,13 @@ find_package(Qt6 REQUIRED COMPONENTS
     Quick3D
     Quick3DAssetUtils   # requis pour RuntimeLoader (chargement .glb)
     Multimedia
+    SerialPort
 )
 
 # Exécutable (main.qml est dans qml.qrc)
 qt_add_executable(appTruckBlindSpotExample
     main.cpp
+    ArduinoController.cpp
     qml.qrc
 )
 
@@ -38,6 +40,7 @@ target_link_libraries(appTruckBlindSpotExample PRIVATE
     Qt6::Quick3D
     Qt6::Quick3DAssetUtils
     Qt6::Multimedia
+    Qt6::SerialPort
 )
 
 # (Optionnel) Icône/GUI Windows : évite la console noire quand tu lances l'appli

@@ -84,17 +84,17 @@ clean: CMakeFiles/appTruckBlindSpotExample_autogen.dir/clean
 # Target rules for target CMakeFiles/appTruckBlindSpotExample.dir
 
 # All Build rule for target.
+CMakeFiles/appTruckBlindSpotExample.dir/all: CMakeFiles/appTruckBlindSpotExample_qmlimportscan.dir/all
 CMakeFiles/appTruckBlindSpotExample.dir/all: CMakeFiles/appTruckBlindSpotExample_autogen_timestamp_deps.dir/all
 CMakeFiles/appTruckBlindSpotExample.dir/all: CMakeFiles/appTruckBlindSpotExample_autogen.dir/all
-CMakeFiles/appTruckBlindSpotExample.dir/all: CMakeFiles/appTruckBlindSpotExample_qmlimportscan.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTruckBlindSpotExample.dir\build.make CMakeFiles/appTruckBlindSpotExample.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTruckBlindSpotExample.dir\build.make CMakeFiles/appTruckBlindSpotExample.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=1,2,3,4,5 "Built target appTruckBlindSpotExample"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target appTruckBlindSpotExample"
 .PHONY : CMakeFiles/appTruckBlindSpotExample.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/appTruckBlindSpotExample.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/appTruckBlindSpotExample.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles 0
 .PHONY : CMakeFiles/appTruckBlindSpotExample.dir/rule
@@ -104,10 +104,10 @@ appTruckBlindSpotExample: CMakeFiles/appTruckBlindSpotExample.dir/rule
 .PHONY : appTruckBlindSpotExample
 
 # codegen rule for target.
-CMakeFiles/appTruckBlindSpotExample.dir/codegen: CMakeFiles/appTruckBlindSpotExample_autogen_timestamp_deps.dir/all
 CMakeFiles/appTruckBlindSpotExample.dir/codegen: CMakeFiles/appTruckBlindSpotExample_qmlimportscan.dir/all
+CMakeFiles/appTruckBlindSpotExample.dir/codegen: CMakeFiles/appTruckBlindSpotExample_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTruckBlindSpotExample.dir\build.make CMakeFiles/appTruckBlindSpotExample.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=1,2,3,4,5 "Finished codegen for target appTruckBlindSpotExample"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=1,2,3,4,5,6 "Finished codegen for target appTruckBlindSpotExample"
 .PHONY : CMakeFiles/appTruckBlindSpotExample.dir/codegen
 
 # clean rule for target.
@@ -122,7 +122,7 @@ CMakeFiles/appTruckBlindSpotExample.dir/clean:
 CMakeFiles/appTruckBlindSpotExample_qmlimportscan.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTruckBlindSpotExample_qmlimportscan.dir\build.make CMakeFiles/appTruckBlindSpotExample_qmlimportscan.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTruckBlindSpotExample_qmlimportscan.dir\build.make CMakeFiles/appTruckBlindSpotExample_qmlimportscan.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=7 "Built target appTruckBlindSpotExample_qmlimportscan"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=8 "Built target appTruckBlindSpotExample_qmlimportscan"
 .PHONY : CMakeFiles/appTruckBlindSpotExample_qmlimportscan.dir/all
 
 # Build rule for subdir invocation for target.
@@ -139,7 +139,7 @@ appTruckBlindSpotExample_qmlimportscan: CMakeFiles/appTruckBlindSpotExample_qmli
 # codegen rule for target.
 CMakeFiles/appTruckBlindSpotExample_qmlimportscan.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTruckBlindSpotExample_qmlimportscan.dir\build.make CMakeFiles/appTruckBlindSpotExample_qmlimportscan.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=7 "Finished codegen for target appTruckBlindSpotExample_qmlimportscan"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=8 "Finished codegen for target appTruckBlindSpotExample_qmlimportscan"
 .PHONY : CMakeFiles/appTruckBlindSpotExample_qmlimportscan.dir/codegen
 
 # clean rule for target.
@@ -186,7 +186,7 @@ CMakeFiles/appTruckBlindSpotExample_autogen_timestamp_deps.dir/clean:
 CMakeFiles/appTruckBlindSpotExample_autogen.dir/all: CMakeFiles/appTruckBlindSpotExample_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTruckBlindSpotExample_autogen.dir\build.make CMakeFiles/appTruckBlindSpotExample_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTruckBlindSpotExample_autogen.dir\build.make CMakeFiles/appTruckBlindSpotExample_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=6 "Built target appTruckBlindSpotExample_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=7 "Built target appTruckBlindSpotExample_autogen"
 .PHONY : CMakeFiles/appTruckBlindSpotExample_autogen.dir/all
 
 # Build rule for subdir invocation for target.
@@ -203,7 +203,7 @@ appTruckBlindSpotExample_autogen: CMakeFiles/appTruckBlindSpotExample_autogen.di
 # codegen rule for target.
 CMakeFiles/appTruckBlindSpotExample_autogen.dir/codegen: CMakeFiles/appTruckBlindSpotExample_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\appTruckBlindSpotExample_autogen.dir\build.make CMakeFiles/appTruckBlindSpotExample_autogen.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=6 "Finished codegen for target appTruckBlindSpotExample_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\BEETTTAAA!!!\Desktop\angle_mort\build\CMakeFiles --progress-num=7 "Finished codegen for target appTruckBlindSpotExample_autogen"
 .PHONY : CMakeFiles/appTruckBlindSpotExample_autogen.dir/codegen
 
 # clean rule for target.

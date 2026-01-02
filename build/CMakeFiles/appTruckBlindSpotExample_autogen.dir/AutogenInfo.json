@@ -1320,6 +1320,23 @@
 		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6Multimedia/Qt6QWindowsMediaPluginTargets-relwithdebinfo.cmake",
 		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6Multimedia/Qt6QWindowsMediaPluginAdditionalTargetInfo.cmake",
 		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6Multimedia/Qt6MultimediaVersionlessAliasTargets.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPort/Qt6SerialPortConfigVersion.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPort/Qt6SerialPortConfigVersionImpl.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPort/Qt6SerialPortConfig.cmake",
+		"C:/Program Files (x86)/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPort/Qt6SerialPortDependencies.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPort/Qt6SerialPortTargets.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPort/Qt6SerialPortTargets-relwithdebinfo.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPort/Qt6SerialPortAdditionalTargetInfo.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPortPrivate/Qt6SerialPortPrivateConfigVersion.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPortPrivate/Qt6SerialPortPrivateConfigVersionImpl.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPortPrivate/Qt6SerialPortPrivateConfig.cmake",
+		"C:/Program Files (x86)/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPortPrivate/Qt6SerialPortPrivateDependencies.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPortPrivate/Qt6SerialPortPrivateTargets.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPortPrivate/Qt6SerialPortPrivateAdditionalTargetInfo.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPortPrivate/Qt6SerialPortPrivateVersionlessAliasTargets.cmake",
+		"C:/Qt/6.9.3/mingw_64/lib/cmake/Qt6SerialPort/Qt6SerialPortVersionlessAliasTargets.cmake",
 		"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/build/.qt/qml_imports/appTruckBlindSpotExample_conf.cmake",
 		"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/qml.qrc"
 	],
@@ -1327,7 +1344,15 @@
 	"CROSS_CONFIG" : false,
 	"DEP_FILE" : "C:/Users/BEETTTAAA!!!/Desktop/angle_mort/build/appTruckBlindSpotExample_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "appTruckBlindSpotExample_autogen/timestamp",
-	"HEADERS" : [],
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/ArduinoController.h",
+			"MU",
+			"EWIEGA46WW/moc_ArduinoController.cpp",
+			null
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "C:/Users/BEETTTAAA!!!/Desktop/angle_mort/build/appTruckBlindSpotExample_autogen/include",
 	"MOC_COMPILATION_FILE" : "C:/Users/BEETTTAAA!!!/Desktop/angle_mort/build/appTruckBlindSpotExample_autogen/mocs_compilation.cpp",
@@ -1352,6 +1377,7 @@
 		"QT_QUICK3DUTILS_LIB",
 		"QT_QUICK3D_LIB",
 		"QT_QUICK_LIB",
+		"QT_SERIALPORT_LIB",
 		"QT_SHADERTOOLS_LIB",
 		"UNICODE",
 		"WIN32",
@@ -1388,6 +1414,7 @@
 		"C:/Qt/6.9.3/mingw_64/include/QtConcurrent",
 		"C:/Qt/6.9.3/mingw_64/include/QtQuick3DAssetUtils",
 		"C:/Qt/6.9.3/mingw_64/include/QtMultimedia",
+		"C:/Qt/6.9.3/mingw_64/include/QtSerialPort",
 		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++",
 		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32",
 		"C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward",
@@ -1428,6 +1455,11 @@
 	"SETTINGS_FILE" : "C:/Users/BEETTTAAA!!!/Desktop/angle_mort/build/CMakeFiles/appTruckBlindSpotExample_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/ArduinoController.cpp",
+			"MU",
+			null
+		],
 		[ "C:/Users/BEETTTAAA!!!/Desktop/angle_mort/main.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],

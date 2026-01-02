@@ -10,7 +10,16 @@
 	"INPUTS" : 
 	[
 		"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/main.qml",
-		"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/2003_gmc_topkick_c6500.glb"
+		"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/2003_gmc_topkick_c6500.glb",
+		"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/road.svg",
+		"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/RouteEtatRepos.SVG",
+		"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/ClignotantGaucheOff.SVG",
+		"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/ClignotantDroitOff.SVG",
+		"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/ClignotantGaucheOn.SVG",
+		"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/ClignotantDroitOn.SVG",
+		"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/route.SVG",
+		"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/FeuOff.SVG",
+		"C:/Users/BEETTTAAA!!!/Desktop/angle_mort/models/svgicons/FeuOn.SVG"
 	],
 	"LOCK_FILE" : "C:/Users/BEETTTAAA!!!/Desktop/angle_mort/build/CMakeFiles/appTruckBlindSpotExample_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,

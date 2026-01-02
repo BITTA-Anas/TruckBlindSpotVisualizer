@@ -2,6 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/appTruckBlindSpotExample_autogen.dir/AutogenUsed.txt"
   "CMakeFiles/appTruckBlindSpotExample_autogen.dir/ParseCache.txt"
   "appTruckBlindSpotExample_autogen"
+  "CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.obj"
+  "CMakeFiles/appTruckBlindSpotExample.dir/ArduinoController.cpp.obj.d"
   "CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp.obj"
   "CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/EWIEGA46WW/qrc_qml.cpp.obj.d"
   "CMakeFiles/appTruckBlindSpotExample.dir/appTruckBlindSpotExample_autogen/mocs_compilation.cpp.obj"
